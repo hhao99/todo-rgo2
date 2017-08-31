@@ -1,6 +1,6 @@
-# Welcome to Revel
-
-A high-productivity web framework for the [Go language](http://www.golang.org/).
+# Go Revel todo example
+[go lang http://golang.org]
+[revel http://revel.github.io]
 
 
 ### Start the web server:
